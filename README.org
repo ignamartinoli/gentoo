@@ -2,20 +2,20 @@
 
 ** Information
 
-[[https://en.wikipedia.org/wiki/Gentoo_Linux][Wikipedia]]
-[[https://wiki.gentoo.org/wiki/Main_Page][Wiki]]
-[[https://wiki.gentoo.org/wiki/Benefits_of_Gentoo][Benefits]]
-[[https://www.reddit.com/r/Gentoo/comments/bn8usj/why_use_gentoo][Why use Gentoo]]
+- [[https://en.wikipedia.org/wiki/Gentoo_Linux][Wikipedia]]
+- [[https://wiki.gentoo.org/wiki/Main_Page][Wiki]]
+- [[https://wiki.gentoo.org/wiki/Benefits_of_Gentoo][Benefits]]
+- [[https://www.reddit.com/r/Gentoo/comments/bn8usj/why_use_gentoo][Why use Gentoo]]
 
 ** Installation
 
-[[https://wiki.gentoo.org/wiki/Handbook:Main_Page][Guide]]
-[[https://wiki.gentoo.org/wiki/HP_Elitebook_845_G10][Laptop]]
+- [[https://wiki.gentoo.org/wiki/Handbook:Main_Page][Guide]]
+- [[https://wiki.gentoo.org/wiki/HP_Elitebook_845_G10][Laptop]]
 
 ** YouTube
 
-[[https://www.youtube.com/playlist?list=PL3cu45aM3C2CADmCYeVhS4KTVut9MoMc9][Gentoo installation guide]]
-[[https://www.youtube.com/watch?v=8QcI43IwkVc][Gentoo Linux important details explained]]
-[[https://www.youtube.com/watch?v=6yxJoMa05ZM][Full Gentoo installation - Big brain edition]]
-[[https://www.youtube.com/watch?v=J7W9MItUSGw][Gentoo: a ℂ𝕠𝕞𝕗𝕪 install guide]]
-[[https://www.youtube.com/watch?v=0Vq2gF9M6Dc][Installing Gentoo 2024 with the Handbook in VirtualBox]]
+- [[https://www.youtube.com/playlist?list=PL3cu45aM3C2CADmCYeVhS4KTVut9MoMc9][Gentoo installation guide]]
+- [[https://www.youtube.com/watch?v=8QcI43IwkVc][Gentoo Linux important details explained]]
+- [[https://www.youtube.com/watch?v=6yxJoMa05ZM][Full Gentoo installation - Big brain edition]]
+- [[https://www.youtube.com/watch?v=J7W9MItUSGw][Gentoo: a ℂ𝕠𝕞𝕗𝕪 install guide]]
+- [[https://www.youtube.com/watch?v=0Vq2gF9M6Dc][Installing Gentoo 2024 with the Handbook in VirtualBox]]
